@@ -58,7 +58,8 @@ Sin 3θ = 3 sin θ - 4sin θ
 2tan x = tan 2x/1-x
 1+tan x = sec x    ;  1+tan x = sec x
 cos 2x = 1-2sin x
-sin 2x = 2sin x cos x  = 2 ^YyedsJTH
+sin 2x = 2sin x cos x  = 2 tan x
+                          1+tan x ^YyedsJTH
 
 Sin (x+y) = Sin  x 1-y + y 1-x 
 
@@ -4184,8 +4185,8 @@ f92e6266563be128335271c2009aadb74f42d527: $$infinity$$
 		},
 		{
 			"type": "text",
-			"version": 298,
-			"versionNonce": 1700509589,
+			"version": 325,
+			"versionNonce": 171434997,
 			"isDeleted": false,
 			"id": "YyedsJTH",
 			"fillStyle": "hachure",
@@ -4199,23 +4200,23 @@ f92e6266563be128335271c2009aadb74f42d527: $$infinity$$
 			"strokeColor": "#000000",
 			"backgroundColor": "transparent",
 			"width": 382,
-			"height": 125,
+			"height": 150,
 			"seed": 1343874664,
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1674965680521,
+			"updated": 1674965718153,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Sin 3θ = 3 sin θ - 4sin θ\n2tan x = tan 2x/1-x\n1+tan x = sec x    ;  1+tan x = sec x\ncos 2x = 1-2sin x\nsin 2x = 2sin x cos x  = 2",
-			"rawText": "Sin 3θ = 3 sin θ - 4sin θ\n2tan x = tan 2x/1-x\n1+tan x = sec x    ;  1+tan x = sec x\ncos 2x = 1-2sin x\nsin 2x = 2sin x cos x  = 2",
-			"baseline": 118,
+			"text": "Sin 3θ = 3 sin θ - 4sin θ\n2tan x = tan 2x/1-x\n1+tan x = sec x    ;  1+tan x = sec x\ncos 2x = 1-2sin x\nsin 2x = 2sin x cos x  = 2 tan x\n                          1+tan x",
+			"rawText": "Sin 3θ = 3 sin θ - 4sin θ\n2tan x = tan 2x/1-x\n1+tan x = sec x    ;  1+tan x = sec x\ncos 2x = 1-2sin x\nsin 2x = 2sin x cos x  = 2 tan x\n                          1+tan x",
+			"baseline": 143,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Sin 3θ = 3 sin θ - 4sin θ\n2tan x = tan 2x/1-x\n1+tan x = sec x    ;  1+tan x = sec x\ncos 2x = 1-2sin x\nsin 2x = 2sin x cos x  = 2"
+			"originalText": "Sin 3θ = 3 sin θ - 4sin θ\n2tan x = tan 2x/1-x\n1+tan x = sec x    ;  1+tan x = sec x\ncos 2x = 1-2sin x\nsin 2x = 2sin x cos x  = 2 tan x\n                          1+tan x"
 		},
 		{
 			"type": "freedraw",
@@ -8613,6 +8614,216 @@ f92e6266563be128335271c2009aadb74f42d527: $$infinity$$
 			"lastCommittedPoint": null,
 			"simulatePressure": true,
 			"pressures": []
+		},
+		{
+			"id": "IzUybXtjTUOSuKtM3PdYr",
+			"type": "line",
+			"x": 30.3741113107543,
+			"y": 287.580017750946,
+			"width": 81.87017147512057,
+			"height": 1.7797863364156683,
+			"angle": 0,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1738102293,
+			"version": 23,
+			"versionNonce": 748940597,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1674965714079,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					81.87017147512057,
+					1.7797863364156683
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"type": "freedraw",
+			"version": 170,
+			"versionNonce": 1002093595,
+			"isDeleted": false,
+			"id": "zP18_TWtGZRnAvexE0chJ",
+			"fillStyle": "hachure",
+			"strokeWidth": 0.5,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"angle": 0,
+			"x": 108.67049200684107,
+			"y": 299.0830339818898,
+			"strokeColor": "#000000",
+			"backgroundColor": "transparent",
+			"width": 9.189747717515502,
+			"height": 9.189747717515559,
+			"seed": 1955679867,
+			"groupIds": [],
+			"roundness": null,
+			"boundElements": null,
+			"updated": 1674965722244,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					-0.36467252847284104,
+					-1.4586901138913477
+				],
+				[
+					-0.36467252847284104,
+					-2.115100665142462
+				],
+				[
+					-0.36467252847284104,
+					-2.771511216393576
+				],
+				[
+					0.2917380227782689,
+					-3.4279217676446896
+				],
+				[
+					1.6045591252804887,
+					-3.4279217676446896
+				],
+				[
+					2.2609696765315985,
+					-4.084332318895804
+				],
+				[
+					2.9173802277827083,
+					-4.084332318895804
+				],
+				[
+					3.573790779033818,
+					-4.084332318895804
+				],
+				[
+					3.573790779033818,
+					-3.4279217676446896
+				],
+				[
+					3.573790779033818,
+					-2.771511216393576
+				],
+				[
+					3.573790779033818,
+					-2.115100665142462
+				],
+				[
+					3.573790779033818,
+					-1.4586901138913477
+				],
+				[
+					2.9173802277827083,
+					-0.8022795626402337
+				],
+				[
+					2.2609696765315985,
+					-0.14586901138911967
+				],
+				[
+					1.6045591252804887,
+					0.5105415398619941
+				],
+				[
+					1.6045591252804887,
+					1.1669520911131084
+				],
+				[
+					0.9481485740293788,
+					1.1669520911131084
+				],
+				[
+					0.9481485740293788,
+					1.8233626423642222
+				],
+				[
+					0.2917380227782689,
+					2.4797731936152996
+				],
+				[
+					0.2917380227782689,
+					3.136183744866414
+				],
+				[
+					0.2917380227782689,
+					3.792594296117527
+				],
+				[
+					-0.36467252847284104,
+					3.792594296117527
+				],
+				[
+					-0.36467252847284104,
+					4.449004847368641
+				],
+				[
+					-1.021083079723951,
+					5.105415398619756
+				],
+				[
+					-0.36467252847284104,
+					5.105415398619756
+				],
+				[
+					0.2917380227782689,
+					5.105415398619756
+				],
+				[
+					1.6045591252804887,
+					4.449004847368641
+				],
+				[
+					3.573790779033818,
+					4.449004847368641
+				],
+				[
+					4.886611881536002,
+					4.449004847368641
+				],
+				[
+					6.199432984038221,
+					4.449004847368641
+				],
+				[
+					6.855843535289331,
+					4.449004847368641
+				],
+				[
+					7.512254086540441,
+					3.792594296117527
+				],
+				[
+					8.16866463779155,
+					3.792594296117527
+				],
+				[
+					8.16866463779155,
+					3.792594296117527
+				]
+			],
+			"lastCommittedPoint": null,
+			"simulatePressure": true,
+			"pressures": []
 		}
 	],
 	"appState": {
@@ -8623,7 +8834,7 @@ f92e6266563be128335271c2009aadb74f42d527: $$infinity$$
 		"currentItemFillStyle": "hachure",
 		"currentItemStrokeWidth": 0.5,
 		"currentItemStrokeStyle": "solid",
-		"currentItemRoughness": 1,
+		"currentItemRoughness": 0,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 1,
 		"currentItemFontSize": 20,
