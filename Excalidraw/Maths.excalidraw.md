@@ -58,7 +58,7 @@ Sin 3θ = 3 sin θ - 4sin θ
 2tan x = tan 2x/1-x
 1+tan x = sec x    ;  1+tan x = sec x
 cos 2x = 1-2sin x
-sin 2x = 2sin x cos x ^YyedsJTH
+sin 2x = 2sin x cos x  = 2 ^YyedsJTH
 
 Sin (x+y) = Sin  x 1-y + y 1-x 
 
@@ -4184,8 +4184,8 @@ f92e6266563be128335271c2009aadb74f42d527: $$infinity$$
 		},
 		{
 			"type": "text",
-			"version": 277,
-			"versionNonce": 655784859,
+			"version": 298,
+			"versionNonce": 1700509589,
 			"isDeleted": false,
 			"id": "YyedsJTH",
 			"fillStyle": "hachure",
@@ -4204,18 +4204,18 @@ f92e6266563be128335271c2009aadb74f42d527: $$infinity$$
 			"groupIds": [],
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1674964956506,
+			"updated": 1674965680521,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
 			"fontFamily": 1,
-			"text": "Sin 3θ = 3 sin θ - 4sin θ\n2tan x = tan 2x/1-x\n1+tan x = sec x    ;  1+tan x = sec x\ncos 2x = 1-2sin x\nsin 2x = 2sin x cos x",
-			"rawText": "Sin 3θ = 3 sin θ - 4sin θ\n2tan x = tan 2x/1-x\n1+tan x = sec x    ;  1+tan x = sec x\ncos 2x = 1-2sin x\nsin 2x = 2sin x cos x",
+			"text": "Sin 3θ = 3 sin θ - 4sin θ\n2tan x = tan 2x/1-x\n1+tan x = sec x    ;  1+tan x = sec x\ncos 2x = 1-2sin x\nsin 2x = 2sin x cos x  = 2",
+			"rawText": "Sin 3θ = 3 sin θ - 4sin θ\n2tan x = tan 2x/1-x\n1+tan x = sec x    ;  1+tan x = sec x\ncos 2x = 1-2sin x\nsin 2x = 2sin x cos x  = 2",
 			"baseline": 118,
 			"textAlign": "left",
 			"verticalAlign": "top",
 			"containerId": null,
-			"originalText": "Sin 3θ = 3 sin θ - 4sin θ\n2tan x = tan 2x/1-x\n1+tan x = sec x    ;  1+tan x = sec x\ncos 2x = 1-2sin x\nsin 2x = 2sin x cos x"
+			"originalText": "Sin 3θ = 3 sin θ - 4sin θ\n2tan x = tan 2x/1-x\n1+tan x = sec x    ;  1+tan x = sec x\ncos 2x = 1-2sin x\nsin 2x = 2sin x cos x  = 2"
 		},
 		{
 			"type": "freedraw",
@@ -8630,10 +8630,10 @@ f92e6266563be128335271c2009aadb74f42d527: $$infinity$$
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 918.1363387781678,
-		"scrollY": 44.907820643455345,
+		"scrollX": 352.27995101861336,
+		"scrollY": -165.58817851233022,
 		"zoom": {
-			"value": 1.4194553374583758
+			"value": 2.247460786813127
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
