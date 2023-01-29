@@ -1,0 +1,171 @@
+{
+  "main": {
+    "id": "9afa753194fcc0bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e80a0e09edef1a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fcbe728bc17bd797",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Physics.excalidraw.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ca80ddfc75ef1a92",
+    "type": "split",
+    "children": [
+      {
+        "id": "6735870ef055695d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b05e9f6fe12f86e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "693e07e83557cde5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8423e65c722a3ff6",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "8806709e35c9f168",
+    "type": "split",
+    "children": [
+      {
+        "id": "5afa4e84f91ca033",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ce8c409ac8699124",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/Physics.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "047e84f361f45dd5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/Physics.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a90c22eec3cd06da",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "26ab5ca44a498bfb",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "44b139552f39cd96",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/Physics.excalidraw.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "fcbe728bc17bd797",
+  "lastOpenFiles": [
+    "Excalidraw/Physics.excalidraw.md",
+    "Excalidraw/Maths.excalidraw.md",
+    "Excalidraw/Maths Activity.excalidraw.md",
+    "Excalidraw/Drawing 2023-01-27 19.17.15.excalidraw.md",
+    "Chemistry Theory.canvas",
+    "27th.canvas",
+    "D block and F block Thoery.md",
+    "exit.md",
+    "Excalidraw/Drawing 2023-01-26 21.28.47.excalidraw.md",
+    "Excalidraw/Drawing 2023-01-26 21.26.03.excalidraw.md"
+  ]
+}

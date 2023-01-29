@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"d4d706253fc2182e","x":-76,"y":-41,"width":3122,"height":3489,"type":"group","label":"Chemistry"},
+		{"id":"19bb22e53b0bf4a5","x":-11,"y":69,"width":1788,"height":954,"color":"1","type":"group","label":"Solutions"},
+		{"id":"f9351266849d8648","x":42,"y":121,"width":870,"height":833,"color":"1","type":"file","file":"Solutions Questions.md"},
+		{"id":"5692b17c04b8f1a2","x":993,"y":121,"width":727,"height":427,"color":"1","type":"file","file":"Solutions equations.md"},
+		{"id":"86c3f686f5f0e66d","x":-11,"y":1113,"width":1788,"height":1013,"type":"group","label":"Electrochemistry"},
+		{"id":"fceb90e359f89d84","x":42,"y":1155,"width":870,"height":804,"type":"file","file":"Electochemistry Questions.md"},
+		{"id":"567716428676955f","x":981,"y":1155,"width":550,"height":670,"type":"file","file":"Electrochemistry Equations.md"}
+	],
+	"edges":[]
+}
