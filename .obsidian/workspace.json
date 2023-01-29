@@ -13,7 +13,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Maths.excalidraw.md"
+                "file": "Excalidraw/Physics.excalidraw.md"
               }
             }
           }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Maths.excalidraw.md",
+                "file": "Excalidraw/Physics.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Maths.excalidraw.md",
+                "file": "Excalidraw/Physics.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -133,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Maths.excalidraw.md"
+                "file": "Excalidraw/Physics.excalidraw.md"
               }
             }
           }
@@ -158,8 +158,8 @@
   },
   "active": "fcbe728bc17bd797",
   "lastOpenFiles": [
-    "Excalidraw/Physics.excalidraw.md",
     "Excalidraw/Maths.excalidraw.md",
+    "Excalidraw/Physics.excalidraw.md",
     "Excalidraw/Maths Activity.excalidraw.md",
     "Excalidraw/Drawing 2023-01-27 19.17.15.excalidraw.md",
     "Chemistry Theory.canvas",
