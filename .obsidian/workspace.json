@@ -11,10 +11,8 @@
             "id": "e5b3603cf8ce5445",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Maths.excalidraw.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -84,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Maths.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Maths.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Maths.excalidraw.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -157,9 +151,9 @@
   },
   "active": "e5b3603cf8ce5445",
   "lastOpenFiles": [
+    "Excalidraw/Maths.excalidraw.md",
     "Maths.md",
     "Maths.canvas",
-    "Excalidraw/Maths.excalidraw.md",
     "Excalidraw/Maths Activity.excalidraw.md",
     "Excalidraw/Physics.excalidraw.md",
     "Chemistry Theory.canvas",
