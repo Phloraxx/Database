@@ -11,15 +11,9 @@
             "id": "fcbe728bc17bd797",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "excalidraw",
               "state": {
-                "file": "Chemistry Theory.canvas",
-                "viewState": {
-                  "x": 1350.3233348821439,
-                  "y": 3111.5908422955163,
-                  "zoom": 1,
-                  "snapToGrid": false
-                }
+                "file": "Excalidraw/Physics.excalidraw.md"
               }
             }
           }
@@ -80,7 +74,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry Theory.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,7 +90,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry Theory.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Chemistry Theory.canvas"
-              }
+              "state": {}
             }
           }
         ],
@@ -153,9 +143,9 @@
   },
   "active": "fcbe728bc17bd797",
   "lastOpenFiles": [
+    "Chemistry Theory.canvas",
     "Excalidraw/Physics.excalidraw.md",
     "Untitled.md",
-    "Chemistry Theory.canvas",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
