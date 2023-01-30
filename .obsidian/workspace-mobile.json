@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "8c731879457b3301",
+        "id": "4d14133253409a6e",
         "type": "tabs",
         "children": [
           {
-            "id": "04a42dea463b7979",
+            "id": "bce7f4954bb8610a",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-01-30 21.36.11.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -83,7 +81,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2023-01-30 21.36.11.excalidraw.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -100,7 +97,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Drawing 2023-01-30 21.36.11.excalidraw.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -111,14 +107,14 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Excalidraw/Drawing 2023-01-30 21.36.11.excalidraw.md"
-          }
+          "state": {}
         }
       }
     ],
     "currentTab": 0
   },
-  "active": "04a42dea463b7979",
-  "lastOpenFiles": []
+  "active": "bce7f4954bb8610a",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-01-30 21.36.11.excalidraw.md"
+  ]
 }
