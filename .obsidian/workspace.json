@@ -129,14 +129,21 @@
               "type": "outline",
               "state": {}
             }
+          },
+          {
+            "id": "332226532575dcb9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -152,6 +159,7 @@
   "active": "26b0ef13d2f27a55",
   "lastOpenFiles": [
     "Excalidraw/Drawing 2023-01-30 21.36.11.excalidraw.md",
+    "Untitled.canvas",
     "Excalidraw/Maths.excalidraw.md",
     "Maths.md",
     "Maths.canvas",
@@ -159,7 +167,6 @@
     "Excalidraw/Physics.excalidraw.md",
     "Chemistry Theory.canvas",
     "Untitled.md",
-    "Untitled 2.canvas",
-    "Untitled 1.canvas"
+    "Untitled 2.canvas"
   ]
 }
