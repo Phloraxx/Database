@@ -1,22 +1,23 @@
 {
 	"nodes":[
-		{"id":"6794671f26a33a58","x":942,"y":-184,"width":665,"height":390,"color":"1","type":"file","file":"Solutions equations.md"},
 		{"id":"c1c0a5182479349a","x":44,"y":-195,"width":2782,"height":769,"color":"1","type":"group","label":"Solutions"},
 		{"id":"9c9609419b6d60cc","x":860,"y":350,"width":692,"height":224,"color":"1","type":"text","text":"Non Ideal Solution showing positive deviation :-\n    Intermolecular attractive forces between the solute and solvent particles are weaker than those between the solvent solvent and solute solute particles. (Water ethanol, Chloroform Water)\n    \nNon Ideal Solution showing negative deviation :-\n    Intermolecular attractive forces between solute and solvent particles are stronger than those between the solute and solvent particles. "},
 		{"id":"3e75635ef849648b","x":55,"y":-184,"width":805,"height":704,"color":"1","type":"file","file":"Solutions Theory.md"},
-		{"id":"2cb84cf2dd6c4023","x":1607,"y":121,"width":518,"height":341,"color":"1","type":"text","text":"Isotonic solutions are two different solutions having the same osmotic pressure at the same temperature.\n\nA solution which has more osmotic pressure than the other high solution is hypertonic and similarly the solution having less osmotic pressure than the other solution is called hypotonic\n\nWhen a pressure greater than osmotic pressure is applied to the solution side, the pure solvent flows out of the solution to the solvent side through the semipermeable membrane. This process is called as reverse osmosis."},
-		{"id":"b214a956cd2996fa","x":982,"y":244,"width":422,"height":95,"color":"1","type":"text","text":"Ideal solution = Solution which obeys Raoults law at all concentraion and at all temperatures."},
 		{"id":"a97be326d4a35eac","x":-36,"y":-233,"width":2890,"height":6570,"type":"group","label":"Chemistry"},
-		{"id":"8f7dde7afca0068a","x":44,"y":2919,"width":2793,"height":1498,"type":"group","label":"D block and F block"},
-		{"id":"1ad4d97fd49f484b","x":56,"y":2969,"width":819,"height":1132,"type":"file","file":"D block and F block Thoery.md"},
 		{"id":"b568b5ef81654f04","x":44,"y":1601,"width":2782,"height":1240,"color":"5","type":"group","label":"Chemical Kinetics"},
-		{"id":"c5f380c5282fc5aa","x":55,"y":1670,"width":802,"height":653,"color":"5","type":"file","file":"Chemical Kinetics Theory.md"},
-		{"id":"17a4ceae0ed41fbb","x":875,"y":1670,"width":677,"height":653,"color":"5","type":"file","file":"Chemical Kinetics Equations.md"},
 		{"id":"0efea3fee6aa27f9","x":55,"y":611,"width":802,"height":903,"color":"6","type":"file","file":"Electrochemistry Theory.md"},
 		{"id":"07865d5452969672","x":44,"y":574,"width":2782,"height":940,"color":"6","type":"group","label":"Electrochemistry"},
 		{"id":"bb09af5debf9198c","x":875,"y":611,"width":677,"height":703,"color":"6","type":"file","file":"Electrochemistry Equations.md"},
 		{"id":"6f3bdab610224202","x":44,"y":4571,"width":2793,"height":1715,"type":"group","label":"Untitled group"},
-		{"id":"73325791b7716a95","x":56,"y":4589,"width":1061,"height":1647,"type":"file","file":"Coordination Compounds Thoery.md"}
+		{"id":"73325791b7716a95","x":56,"y":4589,"width":1061,"height":1647,"type":"file","file":"Coordination Compounds Thoery.md"},
+		{"id":"6794671f26a33a58","x":942,"y":-184,"width":665,"height":390,"color":"1","type":"file","file":"Solutions equations.md"},
+		{"id":"2cb84cf2dd6c4023","x":1607,"y":121,"width":518,"height":341,"color":"1","type":"text","text":"Isotonic solutions are two different solutions having the same osmotic pressure at the same temperature.\n\nA solution which has more osmotic pressure than the other high solution is hypertonic and similarly the solution having less osmotic pressure than the other solution is called hypotonic\n\nWhen a pressure greater than osmotic pressure is applied to the solution side, the pure solvent flows out of the solution to the solvent side through the semipermeable membrane. This process is called as reverse osmosis."},
+		{"id":"b214a956cd2996fa","x":982,"y":244,"width":422,"height":95,"color":"1","type":"text","text":"Ideal solution = Solution which obeys Raoults law at all concentraion and at all temperatures."},
+		{"id":"8f7dde7afca0068a","x":44,"y":2919,"width":2793,"height":1498,"type":"group","label":"D block and F block"},
+		{"id":"1ad4d97fd49f484b","x":56,"y":2969,"width":819,"height":1132,"type":"file","file":"D block and F block Thoery.md"},
+		{"id":"c5f380c5282fc5aa","x":55,"y":1670,"width":802,"height":653,"color":"5","type":"file","file":"Chemical Kinetics Theory.md"},
+		{"id":"17a4ceae0ed41fbb","x":875,"y":1670,"width":677,"height":653,"color":"5","type":"file","file":"Chemical Kinetics Equations.md"},
+		{"id":"068b692dca9308ce","x":875,"y":2969,"width":1366,"height":880,"type":"file","file":"Untitled.md"}
 	],
 	"edges":[
 		{"id":"cb32346c675ebbae","fromNode":"3e75635ef849648b","fromSide":"right","toNode":"b214a956cd2996fa","toSide":"left"},
