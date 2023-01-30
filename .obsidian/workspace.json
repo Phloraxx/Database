@@ -11,11 +11,15 @@
             "id": "fcbe728bc17bd797",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Solutions Questions.md",
-                "mode": "source",
-                "source": false
+                "file": "Chemistry Theory.canvas",
+                "viewState": {
+                  "x": 440.1772627468669,
+                  "y": 3210.1576645535924,
+                  "zoom": -0.49275169183732376,
+                  "snapToGrid": false
+                }
               }
             }
           }
@@ -87,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Solutions Questions.md",
+                "file": "Chemistry Theory.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Solutions Questions.md",
+                "file": "Chemistry Theory.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Solutions Questions.md"
+                "file": "Chemistry Theory.canvas"
               }
             }
           }
@@ -160,6 +164,7 @@
   },
   "active": "fcbe728bc17bd797",
   "lastOpenFiles": [
+    "Solutions Questions.md",
     "D block and F block Thoery.md",
     "Coordination Compounds Thoery.md",
     "Excalidraw/Physics.excalidraw.md",
@@ -168,7 +173,6 @@
     "Excalidraw/Drawing 2023-01-27 19.17.15.excalidraw.md",
     "Chemistry Theory.canvas",
     "27th.canvas",
-    "exit.md",
-    "Excalidraw/Drawing 2023-01-26 21.28.47.excalidraw.md"
+    "exit.md"
   ]
 }
