@@ -1,0 +1,10 @@
+{
+  "blockPrefix": [
+    "asciimath",
+    "am"
+  ],
+  "inline": {
+    "open": "`$",
+    "close": "$`"
+  }
+}
