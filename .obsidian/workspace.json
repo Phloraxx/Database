@@ -40,9 +40,11 @@
             "id": "5b05e9f6fe12f86e",
             "type": "leaf",
             "state": {
-              "type": "diagram-edit",
+              "type": "markdown",
               "state": {
-                "file": "Untitled Diagram.svg"
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -52,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "inser",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +71,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -89,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled Diagram.svg",
+                "file": "Chemistry Theory.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +109,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled Diagram.svg",
+                "file": "Chemistry Theory.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled Diagram.svg"
+                "file": "Chemistry Theory.canvas"
               }
             }
           }
@@ -159,8 +162,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5b05e9f6fe12f86e",
+  "active": "fcbe728bc17bd797",
   "lastOpenFiles": [
+    "Untitled.md",
     "Chemistry Theory.canvas",
     "Untitled Diagram.svg",
     "Solutions Questions.md",
@@ -169,7 +173,6 @@
     "Excalidraw/Physics.excalidraw.md",
     "Excalidraw/Maths.excalidraw.md",
     "Excalidraw/Maths Activity.excalidraw.md",
-    "Excalidraw/Drawing 2023-01-27 19.17.15.excalidraw.md",
-    "27th.canvas"
+    "Excalidraw/Drawing 2023-01-27 19.17.15.excalidraw.md"
   ]
 }
