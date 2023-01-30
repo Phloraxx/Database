@@ -52,6 +52,16 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "458f6bd82807b516",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
           }
         ]
       }
@@ -147,10 +157,10 @@
   },
   "active": "e5b3603cf8ce5445",
   "lastOpenFiles": [
-    "Excalidraw/Maths Activity.excalidraw.md",
     "Maths.md",
-    "Excalidraw/Maths.excalidraw.md",
     "Maths.canvas",
+    "Excalidraw/Maths.excalidraw.md",
+    "Excalidraw/Maths Activity.excalidraw.md",
     "Excalidraw/Physics.excalidraw.md",
     "Chemistry Theory.canvas",
     "Untitled.md",
