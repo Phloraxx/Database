@@ -17,7 +17,7 @@
 		{"id":"1ad4d97fd49f484b","x":56,"y":2969,"width":819,"height":1132,"type":"file","file":"D block and F block Thoery.md"},
 		{"id":"c5f380c5282fc5aa","x":55,"y":1670,"width":802,"height":653,"color":"5","type":"file","file":"Chemical Kinetics Theory.md"},
 		{"id":"17a4ceae0ed41fbb","x":875,"y":1670,"width":677,"height":653,"color":"5","type":"file","file":"Chemical Kinetics Equations.md"},
-		{"id":"068b692dca9308ce","x":875,"y":2969,"width":1366,"height":880,"type":"file","file":"Untitled.md"}
+		{"id":"068b692dca9308ce","x":1077,"y":2974,"width":1366,"height":880,"type":"file","file":"Untitled.md"}
 	],
 	"edges":[
 		{"id":"cb32346c675ebbae","fromNode":"3e75635ef849648b","fromSide":"right","toNode":"b214a956cd2996fa","toSide":"left"},
