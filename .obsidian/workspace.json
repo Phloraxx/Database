@@ -16,7 +16,7 @@
                 "file": "Chemistry Theory.canvas",
                 "viewState": {
                   "x": 186.28034473177084,
-                  "y": 3035.4850826277075,
+                  "y": 3081.9850826277075,
                   "zoom": 1,
                   "snapToGrid": false
                 }
@@ -158,8 +158,7 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "fcbe728bc17bd797",
