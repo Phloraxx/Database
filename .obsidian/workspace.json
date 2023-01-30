@@ -15,8 +15,8 @@
               "state": {
                 "file": "Chemistry Theory.canvas",
                 "viewState": {
-                  "x": 1558,
-                  "y": 3409,
+                  "x": 1912.9167709660442,
+                  "y": 3245.513237107227,
                   "zoom": -0.5924337501522915,
                   "snapToGrid": false
                 }
@@ -79,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Chemistry Theory.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Chemistry Theory.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Chemistry Theory.canvas"
               }
             }
           }
