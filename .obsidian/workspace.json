@@ -11,11 +11,15 @@
             "id": "fcbe728bc17bd797",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "canvas",
               "state": {
-                "file": "Untitled.md",
-                "mode": "source",
-                "source": false
+                "file": "Chemistry Theory.canvas",
+                "viewState": {
+                  "x": 1321.0599920198717,
+                  "y": 3281.3267708169337,
+                  "zoom": -1.4927516918373236,
+                  "snapToGrid": false
+                }
               }
             }
           }
@@ -75,7 +79,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.md",
+                "file": "Chemistry Theory.canvas",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -92,7 +96,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.md",
+                "file": "Chemistry Theory.canvas",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.md"
+                "file": "Chemistry Theory.canvas"
               }
             }
           }
@@ -147,11 +151,11 @@
   },
   "active": "fcbe728bc17bd797",
   "lastOpenFiles": [
+    "Untitled.md",
     "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Chemistry Theory.canvas",
-    "Untitled.md",
     "Untitled Diagram.svg",
     "Solutions Questions.md",
     "D block and F block Thoery.md",
