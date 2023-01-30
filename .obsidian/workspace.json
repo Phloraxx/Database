@@ -11,8 +11,9 @@
             "id": "26b0ef13d2f27a55",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "diff-view",
               "state": {
+                "staged": false,
                 "file": "Excalidraw/Maths.excalidraw.md"
               }
             }
@@ -84,7 +85,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Maths.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +101,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Maths.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,9 +130,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Maths.excalidraw.md"
-              }
+              "state": {}
             }
           },
           {
@@ -164,9 +161,9 @@
   },
   "active": "26b0ef13d2f27a55",
   "lastOpenFiles": [
+    "Excalidraw/Maths.excalidraw.md",
     "Excalidraw/Drawing 2023-01-30 21.36.11.excalidraw.md",
     "Untitled.canvas",
-    "Excalidraw/Maths.excalidraw.md",
     "Maths.md",
     "Maths.canvas",
     "Excalidraw/Maths Activity.excalidraw.md",
