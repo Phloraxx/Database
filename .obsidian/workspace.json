@@ -4,17 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "1e80a0e09edef1a2",
+        "id": "a7d67786ad946d44",
         "type": "tabs",
         "children": [
           {
-            "id": "e5b3603cf8ce5445",
+            "id": "26b0ef13d2f27a55",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-01-30 21.36.11.excalidraw.md"
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -84,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-01-30 21.36.11.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-01-30 21.36.11.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,9 +127,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-01-30 21.36.11.excalidraw.md"
-              }
+              "state": {}
             }
           }
         ],
@@ -155,8 +149,9 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e5b3603cf8ce5445",
+  "active": "26b0ef13d2f27a55",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-01-30 21.36.11.excalidraw.md",
     "Excalidraw/Maths.excalidraw.md",
     "Maths.md",
     "Maths.canvas",
@@ -165,7 +160,6 @@
     "Chemistry Theory.canvas",
     "Untitled.md",
     "Untitled 2.canvas",
-    "Untitled 1.canvas",
-    "Untitled Diagram.svg"
+    "Untitled 1.canvas"
   ]
 }
