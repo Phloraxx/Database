@@ -16,7 +16,7 @@
                 "file": "Chemistry Theory.canvas",
                 "viewState": {
                   "x": 516.921522435131,
-                  "y": 168.85660049275356,
+                  "y": 286.0292581329768,
                   "zoom": -0.3333333333333332,
                   "snapToGrid": false
                 }
@@ -40,9 +40,9 @@
             "id": "5b05e9f6fe12f86e",
             "type": "leaf",
             "state": {
-              "type": "file-explorer",
+              "type": "diagram-edit",
               "state": {
-                "sortOrder": "alphabetical"
+                "file": "Untitled Diagram.svg"
               }
             }
           },
@@ -69,13 +69,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 305.5
   },
   "right": {
     "id": "8806709e35c9f168",
@@ -91,7 +89,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry Theory.canvas",
+                "file": "Untitled Diagram.svg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +106,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry Theory.canvas",
+                "file": "Untitled Diagram.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry Theory.canvas"
+                "file": "Untitled Diagram.svg"
               }
             }
           }
@@ -161,8 +159,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fcbe728bc17bd797",
+  "active": "5b05e9f6fe12f86e",
   "lastOpenFiles": [
+    "Chemistry Theory.canvas",
+    "Untitled Diagram.svg",
     "Solutions Questions.md",
     "D block and F block Thoery.md",
     "Coordination Compounds Thoery.md",
@@ -170,8 +170,6 @@
     "Excalidraw/Maths.excalidraw.md",
     "Excalidraw/Maths Activity.excalidraw.md",
     "Excalidraw/Drawing 2023-01-27 19.17.15.excalidraw.md",
-    "Chemistry Theory.canvas",
-    "27th.canvas",
-    "exit.md"
+    "27th.canvas"
   ]
 }
