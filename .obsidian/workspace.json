@@ -8,13 +8,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fcbe728bc17bd797",
+            "id": "e5b3603cf8ce5445",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Physics.excalidraw.md"
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -141,17 +139,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "fcbe728bc17bd797",
+  "active": "e5b3603cf8ce5445",
   "lastOpenFiles": [
-    "Chemistry Theory.canvas",
+    "Excalidraw/Maths.excalidraw.md",
+    "Maths.canvas",
+    "Maths.md",
     "Excalidraw/Physics.excalidraw.md",
+    "Chemistry Theory.canvas",
     "Untitled.md",
-    "Untitled.canvas",
     "Untitled 2.canvas",
     "Untitled 1.canvas",
     "Untitled Diagram.svg",
-    "Solutions Questions.md",
-    "D block and F block Thoery.md",
-    "Coordination Compounds Thoery.md"
+    "Solutions Questions.md"
   ]
 }

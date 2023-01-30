@@ -1,0 +1,8 @@
+{
+	"nodes":[
+		{"id":"2ce6ae7eaec514c8","x":-363,"y":-142,"width":4171,"height":1873,"color":"1","type":"group","label":"Mathss #MATHS"},
+		{"id":"9f18dc4bef0ef594","x":-331,"y":-142,"width":889,"height":495,"color":"5","type":"file","file":"Maths.md"},
+		{"id":"bb1151246119cc92","x":558,"y":-142,"width":3250,"height":1873,"color":"5","type":"file","file":"Excalidraw/Maths.excalidraw.md"}
+	],
+	"edges":[]
+}
