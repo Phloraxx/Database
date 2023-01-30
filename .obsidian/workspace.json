@@ -16,7 +16,7 @@
                 "file": "Chemistry Theory.canvas",
                 "viewState": {
                   "x": 440.1772627468669,
-                  "y": 3210.1576645535924,
+                  "y": 3341.0203981984523,
                   "zoom": -0.49275169183732376,
                   "snapToGrid": false
                 }
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry Theory.canvas",
+                "file": "D block and F block Thoery.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -108,7 +108,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry Theory.canvas",
+                "file": "D block and F block Thoery.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry Theory.canvas"
+                "file": "D block and F block Thoery.md"
               }
             }
           }
